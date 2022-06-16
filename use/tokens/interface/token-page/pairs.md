@@ -12,4 +12,4 @@ Here you have the following options:
 
 **Add to favorites** - click on the "star" next to a pair to add them to your favorites. These pairs will be displayed on the main page of the [**Pools** ](../../../pools/)section.
 
-![](<../../../../.gitbook/assets/image (153).png>)
+![](<../../../../.gitbook/assets/image (114).png>)

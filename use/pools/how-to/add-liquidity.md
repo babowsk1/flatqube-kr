@@ -58,4 +58,4 @@ After you successfully complete the Supply process, you will see a **Supply rece
 
 Here you will see the current **Pool share** and the percentage by which it was increased by this transaction, as well as the number of received [**LP tokens.**](calculate-the-amount-of-lp-tokens.md)\*\*\*\*
 
-![](<../../../.gitbook/assets/image (58).png>)
+![](<../../../.gitbook/assets/image (201).png>)

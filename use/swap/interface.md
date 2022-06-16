@@ -11,12 +11,12 @@ So, we've come to the Swap section. Let's examine each element of the interface 
 In the upper right part of the swap window, you can see a gear⚙️\*\*.\*\* This is a link to **Transaction Settings.**\
 \*\*\*\*Here you can set the [**slippage tolerance**](how-to/configure-slippage-tolerance.md).
 
-![](<../../.gitbook/assets/Gear (1).png>)
+![](../../.gitbook/assets/Gear.png)
 
 **From** - is the amount of tokens that will be converted into a certain amount of other tokens - **To.**\
 \*\*\*\*Click on **Max** to select all exchangeable tokens.
 
-![](<../../.gitbook/assets/image (55).png>)
+![](<../../.gitbook/assets/image (32) (8).png>)
 
 After selecting a certain amount of tokens in **From** or **To**, a few more informative lines will appear:
 

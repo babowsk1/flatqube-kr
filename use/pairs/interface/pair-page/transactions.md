@@ -20,4 +20,4 @@ Below you can see several columns with transaction information:
 
 By clicking on one of the transactions, you will open its page in the blockchain explorer.
 
-![](<../../../../.gitbook/assets/image (71).png>)
+![](<../../../../.gitbook/assets/image (135).png>)

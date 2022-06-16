@@ -12,7 +12,7 @@ In order to withdraw your tokens from the liquidity pool, you need to go to the 
 
 2\. In the [**Pools**](../) section, go to the [**Pool page**](../interface/pool-page/) of the desired pair by <mark style="color:green;">clicking on it</mark>. Then click <mark style="color:orange;">**Burn Liquidity**</mark> under **Your balance** block\*\*.\*\*
 
-![](<../../../.gitbook/assets/image (195).png>)
+![](<../../../.gitbook/assets/image (46).png>)
 
 In both cases, the final page will be **Remove Liquidity** for the selected pair.
 
@@ -26,9 +26,9 @@ In this case, you will see the <mark style="color:purple;">number of tokens</mar
 
 Click **Confirm** to start the process of unlocking the tokens.
 
-![](<../../../.gitbook/assets/image (120).png>)
+![](<../../../.gitbook/assets/image (180).png>)
 
 After confirming the transaction, you just have to wait for its execution.\
 After the transaction is completed, you will see the **Transaction submitted** window. By clicking on View on TON Scan, you can go to the page of this transaction in the [blockchain explorer](../../getting-started/glossary.md#explorer).
 
-![](<../../../.gitbook/assets/image (184).png>)
+![](<../../../.gitbook/assets/image (215).png>)

@@ -12,7 +12,7 @@ The top block contains information about your liquidity locked in this pool and 
 
 This block displays information about the farm pool that works with the LP of this pair.
 
-![](<../../../../.gitbook/assets/image (47).png>)
+![](<../../../../.gitbook/assets/image (30).png>)
 
 ### [Transactions](transactions.md)
 

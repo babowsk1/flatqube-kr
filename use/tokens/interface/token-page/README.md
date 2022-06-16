@@ -28,7 +28,7 @@ Also on the right side of this block you can see information about:\
 
 ### [Pairs block](pairs.md)
 
-![](<../../../../.gitbook/assets/image (114).png>)
+![](<../../../../.gitbook/assets/image (153).png>)
 
 ### [Transactions block](transactions.md)
 

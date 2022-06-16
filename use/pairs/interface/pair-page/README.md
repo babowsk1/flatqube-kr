@@ -33,4 +33,4 @@ The amount of **fees** in dollars that have been [paid to liquidity providers](.
 
 ### \*\*\*\*[**Transactions block**](transactions.md)
 
-![](<../../../../.gitbook/assets/image (125).png>)
+![](<../../../../.gitbook/assets/image (96).png>)

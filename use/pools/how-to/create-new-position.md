@@ -4,7 +4,7 @@ There are several ways to go to the page for adding liquidity to a pair:
 
 1. Go to the [Pairs section](../../pairs/), go to the [page of the desired pair](../../pairs/interface/pair-page/) by clicking on the appropriate pair and click <mark style="color:orange;">**Add liquidity**</mark>**:**
 
-![](<../../../.gitbook/assets/image (143).png>)
+![](<../../../.gitbook/assets/image (130).png>)
 
 2\. In the **Pool** section select <mark style="color:orange;">**New position**</mark>**.**\
 \*\*\*\*Choose the left and right tokens that will form your pair.
